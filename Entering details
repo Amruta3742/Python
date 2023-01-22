@@ -1,0 +1,23 @@
+#input_name
+name = input("Enter your name :")
+print(name)
+
+#input_college_name
+college_name =input("Enter your collge name :")
+print(college_name)
+
+#input_year_graduate
+year_graduate =int(input("Enter your Graduation Year :"))
+print(year_graduate)
+
+#input_mobile_no.
+mobile_number =int(input("Enter your mobile number:"))
+print(mobile_number)
+
+#input_email_id
+email_id =(input("Enter your email :"))
+print(email_id)
+
+#input_address
+address =input("Enter your address:" )
+print(address)
